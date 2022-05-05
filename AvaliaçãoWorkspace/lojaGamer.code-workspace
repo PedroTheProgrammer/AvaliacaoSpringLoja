@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": ".vccode",
+			"path": ".vscode"
+		},
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		},
+		{
+			"name": "zuul-serve",
+			"path": "zuul-server"
+		},
+		{
+			"path": "produtos-ms"
+		},
+		{
+			"path": "vendas-ms"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
